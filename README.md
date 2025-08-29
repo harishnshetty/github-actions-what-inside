@@ -1,6 +1,6 @@
 # github-actions-what-inside
 
-``bash
+```bash
 name: Github Action Managed Server Explore
 
 on:
